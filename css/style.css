@@ -40,7 +40,7 @@ body a:focus {
 }
 /*-- banner --*/ 
 .w3-banner-left{
-    background: url(../images/r2.jpg)no-repeat 0px 0px;
+    background: url(../images/r21.png)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1251,7 +1251,7 @@ p.footer-w3l-te {
 }
 @media(max-width:320px){
 .w3-banner-left {
-    background: url(../images/r2.jpg)no-repeat -74px 0px;
+    background: url(../images/r21.png)no-repeat -74px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
